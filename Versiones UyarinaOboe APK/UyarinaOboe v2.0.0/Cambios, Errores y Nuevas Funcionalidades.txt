@@ -1,0 +1,31 @@
+********
+Errores
+********
+1. Corregir el envío de correos, no se envian los correos correctamente.
+
+2. Ocurre un error al estar activado el escuchador y al cambiarse de layout.
+
+3. La aplicación se cierra al seleccionar AAudio y despues seleccionar
+   OpenSL
+
+********
+Cambios
+********
+1. Modificar el tamaño del texto de todas las pantallas, deben ser mas grandes.
+
+2. Cambiar el email al que se envian los correos: solidarityTech@outlook.com
+
+3. Poner como versión 3, la version final que se va a subir al repositorio.
+
+3. Cambiar el nombre de la app por UyarinaOBOE.
+
+*************
+Funcionalidad
+*************
+1. Añadir un menú superior en donde se muestre las configuraciones y acerca de.
+
+2. En configuraciones agregar un balanceador de sonido para cada auricular.
+
+3. En acerca de, mostrar los nombres de los integrantes del proyecto.
+
+

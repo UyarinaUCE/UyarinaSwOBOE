@@ -1,0 +1,28 @@
+********
+Errores
+********
+1. La aplicacion se cuelga al activar el escuchar y cambiar a la pestaña del traductor.
+
+********
+Cambios
+********
+1. Quitar el balance de volumen de la pantalla de inicio y dejar que solo se reporduzca la canción.
+
+2. Quitar la selección de entrada y salida de audio.
+
+3. Cambiar el correo emisor, cuenta de gmail.
+
+*************
+Funcionalidad
+*************
+1. Poner un Toast para confirmar el envío del correo.
+
+2. En configuraciones agregar aumentar el layout con el que se realizaron las primeras pruebas
+   del osciloscopio.
+
+3. Poner una barra que permita visualizar que tan fuerte es el sonido captado por la app.
+   Bajo: verde, Medio: Amarillo, Alto: Rojo.
+
+4. Parar la reproducción de la cancion del balance de sonido de forma forzada.
+
+

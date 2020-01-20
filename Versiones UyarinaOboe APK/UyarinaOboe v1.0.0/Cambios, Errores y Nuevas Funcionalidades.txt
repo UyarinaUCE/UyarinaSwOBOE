@@ -1,0 +1,26 @@
+********
+Errores
+********
+1. Corregir el comboBox para que seleccione por donde ingresará el sonido, por
+   microfono del celular o de los auriculares.
+
+2. Corregir la limpieza del texto en el traductor, ya que se sigue aumentando 
+   y no se refresca.
+
+********
+Cambios
+********
+1. Modificar el tamaño de los botones, hacerlos un poco mas grandes.
+
+2. Quitar textos que no son necesarios y botones que no cumplen
+   ninguna funcióon.
+
+*************
+Funcionalidad
+*************
+1. Añadir en el Layout de la mitad un formulario para el envio de correos.
+
+2. Mostrar el valor de la latencia en el ultimo Layout para tener una 
+   referencia con las pruebas realizadas del osciloscopio.
+
+
